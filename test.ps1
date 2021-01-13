@@ -2,8 +2,8 @@
 #Please see connect repo for information
 
 # Static Values for Resource Group and Storage Account Names
-$resourceGroup = "Storage"
-$storageAccountName = "testaccountns"
+$resourceGroup = "XXXXXX"
+$storageAccountName = "XXXXXX"
 
 # Get a reference to the storage account and the context
 $storageAccount = Get-AzureRmStorageAccount `

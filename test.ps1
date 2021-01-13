@@ -1,5 +1,5 @@
 # Connect to Azure
-Connect-AzureRmAccount
+#Please see connect repo for information
 
 # Static Values for Resource Group and Storage Account Names
 $resourceGroup = "Storage"
